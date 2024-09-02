@@ -1,0 +1,14 @@
+Model Evaluation Results
+
+1.Linear Regression
+  Mean = 4.221894675406022
+  Standard deviation = 0.7520304927151625
+
+
+2.Decision Tree
+  Mean = 4. 189504502474483
+  Standard deviation = 0.848096620323756
+
+3.Random Forest
+  Mean:  3.3313326510969423
+  Standard deviation:  0.7535299444929924
